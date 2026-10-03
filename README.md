@@ -1,6 +1,7 @@
 # Resume Builder Database & Documentation
 
-This repository contains the structured master database for Naveed Ahmed Khan's professional portfolio, tailored resumes, cover letters, and career documentation.
+This repository contains the structured master database for a dummy Profile's professional portfolio, tailored resumes, cover letters, and career documentation.
+Here is the full video for the demo: https://youtu.be/KoOiEXW2dAw
 
 ---
 
